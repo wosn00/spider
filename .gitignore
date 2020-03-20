@@ -3,7 +3,8 @@
 
 # Log file
 *.log
-
+.idea
+reptile.iml
 # BlueJ files
 *.ctxt
 
